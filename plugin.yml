@@ -1,0 +1,8 @@
+name: whitecore
+description: plugin de white craft
+version: 1.0
+author: Agent040147
+main: fr.agent040147.whitecore.whitecore
+commands:
+  spy:
+    permission: whitecore.spy
